@@ -37,7 +37,17 @@ class App extends React.Component {
             Restart Scoreboard
           </button>
         </div>
-        <div></div>
+        <div className="footer">
+          <h4>Contribute:</h4>
+          <div>
+            <a href="https://github.com/ricardodorosario/tic-tac-toe-react">
+              <img
+                src="https://img.shields.io/github/package-json/v/ricardodorosario/tic-tac-toe-react?style=flat-square"
+                alt="github"
+              />
+            </a>
+          </div>
+        </div>
       </div>
     );
   }

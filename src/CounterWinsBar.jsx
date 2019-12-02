@@ -18,7 +18,7 @@ class CounterWinsBar extends React.Component {
     return (
       <div className="counterWinsBar">
         <HSBar
-          showTextIn
+          showTextUp
           data={[
             {
               name: "X Won",
