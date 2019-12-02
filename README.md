@@ -4,6 +4,6 @@
 
 An example of tic-tac-toe's game using React
 
-![Tic-tac-toe Screen](https://github.com/ricardodorosario/checkers-react/blob/master/images/tic-tac-toe-react-screen.png)
+![Image Tic-tac-toe Screen](https://github.com/ricardodorosario/tic-tac-toe-react/blob/master/images/tic-tac-toe-react-screen.png)
 
 ## Game is running on [games.pokolegas.com.br](https://games.pokolegas.com.br/tic-tac-toe/)
